@@ -1,7 +1,7 @@
 {
 "companyName": "CodeBenders",
 "productName": "Angry Defense",
-"productVersion": "0.1",
+"productVersion": "1.0",
 "dataUrl": "webgl-build.data.unityweb",
 "wasmCodeUrl": "webgl-build.wasm.code.unityweb",
 "wasmFrameworkUrl": "webgl-build.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.13f1"
+"unityVersion": "2019.4.16f1"
 }
